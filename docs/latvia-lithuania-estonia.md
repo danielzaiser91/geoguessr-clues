@@ -12,12 +12,14 @@ where the barb meets the shaft.
 
 Splits LV off. For LT vs EE use the letters.
 
-## Letters on place names
+## Alphabet
 
-| | Give-away | Endings |
+Letters that appear in only one of the three.
+
+| | Unique letters | Endings |
 |---|---|---|
-| **LV** | macrons **ā ē ī ū**, cedillas **ģ ķ ļ ņ** | -s, -a |
-| **LT** | **ė**, ogoneks **ą ę į ų** | -as, -is, -us |
-| **EE** | **õ ä ö ü**, doubled letters (Ta**ll**i**nn**) | – |
+| **LV** | Ā Ē Ģ Ī Ķ Ļ Ņ | -s, -a |
+| **LT** | Ą Ę **Ė** Į Ų Y | -as, -is, -us |
+| **EE** | **Õ** Ä Ö Ü | – |
 
-`ė` and `õ` are each unique to one country. Neither LV nor EE uses `ė`; only EE uses `õ`.
+Signature letters: **Õ** for EE, **Ė** for LT. Ā Ē Ī with macron for LV.
