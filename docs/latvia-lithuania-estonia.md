@@ -24,6 +24,16 @@ Letters that appear in only one of the three.
 | **LT** | Ą Ę **Ė** Į Ų Y | -as, -is, -us |
 | **EE** | **Õ** Ä Ö Ü | – |
 
-**Mnemonic:** EE = umlauts + doubled letters · LT = dot over E · LV = bar over a, e, i
+**Mnemonic — one city per mark:**
 
-**Careful:** **Ū** exists in both LV and LT — it decides nothing. Only the bar over **a, e, i** is LV.
+| City | Mark | |
+|---|---|---|
+| **Rī**ga | bar over i | LV |
+| Klaip**ė**da | dot over e | LT |
+| Ta**ll**i**nn**, V**õ**ru | doubled letters, õ | EE |
+
+**Story:** Three Balts write a sentence. The Latvian draws a **bar**, the Lithuanian sets a
+**dot**, the Estonian says everything **twice**. Over the **U** the Latvian and the Lithuanian
+argue — so it stays **undecided**.
+
+**Careful:** **Ū** = undecided. It exists in both LV and LT. Only the bar over **a, e, i** is LV.
