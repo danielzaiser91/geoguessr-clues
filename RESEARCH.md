@@ -48,6 +48,22 @@ Bollards, Chevrons, Kilometersteine, Schilderränder, Leitplanken-Reflektoren, F
 und Masten für alle drei Länder stehen im Dokument. Plonkit verweist zusätzlich auf eine
 Infografik zu baltischen und nordischen Bollards — noch nicht ausgewertet.
 
+## USA — teilweise ausgelesen (16.08.2026)
+
+Die Seite ist mit knapp 44.000 Zeichen die größte bei plonkit. Übernommen ist der komplette
+Abschnitt **Infrastructure**: Brücken- und Leitplankenmarkierungen, Bollards, Masten,
+Fahrbahnbeläge, Straßen- und Routenschilder.
+
+**Noch offen, bewusst nicht angefangen:**
+
+- **Landscape** — Topografie, Vegetation, Bodenfarben je Region
+- **Architecture** — Bauweisen je Region
+- **Non-contiguous States and Territories** — Alaska, Hawaii, Puerto Rico usw.
+- **Spotlight** — einzelne Städte, Nationalparks, Ladenketten
+
+Vorgehen beim Weitermachen: Abschnittsgrenzen über `indexOf('\nLandscape\n')` bzw.
+`indexOf('\nArchitecture\n')` im `innerText` schneiden, dann in Häppchen von ~7.000 Zeichen lesen.
+
 ## Mexiko — vollständig ausgelesen (16.08.2026)
 
 Schilder, Bollards, Masten, Fahrbahnbeläge, Pflanzen, Böden und Bauweisen stehen im Dokument.

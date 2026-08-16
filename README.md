@@ -13,6 +13,7 @@ Readable at a glance, never a paragraph.
 | [Australia — states](docs/australia-states.md) | states inside AU |
 | [Canada — provinces](docs/canada-provinces.md) | provinces inside CA |
 | [Mexico — states](docs/mexico-states.md) | states inside MX |
+| [USA — states](docs/usa-states.md) | states inside US |
 | [Gibraltar](docs/gibraltar.md) | GI vs UK / ES |
 | [Bolivia](docs/bolivia.md) | BO |
 | [Uruguay](docs/uruguay.md) | UY vs AR / BR |
