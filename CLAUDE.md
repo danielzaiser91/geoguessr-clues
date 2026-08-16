@@ -23,5 +23,8 @@ vollständig sie ist.
   die Warnzeile direkt darunter.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
-- Dateiname = Ländergruppe, z. B. `docs/hungary-croatia.md`. Neues Dokument → Zeile in der
-  README-Tabelle.
+- **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines
+  großen Landes (`docs/brazil-acre-rondonia.md`). Beide folgen denselben Regeln. Neues Dokument →
+  Zeile in der README-Tabelle.
+- **Telefonvorwahlen** sind bei großen Ländern oft das schärfste Regionalmerkmal — mit aufnehmen,
+  wenn bekannt.
