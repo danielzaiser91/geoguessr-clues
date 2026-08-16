@@ -10,6 +10,7 @@ Only once you know it is Australia.
 | **Flat** sign post — the post, not the sign | **SA or WA** only |
 | **Yellow** sign post | **WA** — mostly, not always |
 | **Yellow** licence plate | **NSW** |
+| **Red** "No Stopping" sign | **NSW** — only state |
 | **White** direction sign | **TAS** |
 
 **Careful:** SA uses **rounded** posts too. A round post never rules SA out — only a flat one
