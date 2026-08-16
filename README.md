@@ -13,6 +13,7 @@ Readable at a glance, never a paragraph.
 | [Australia — states](docs/australia-states.md) | states inside AU |
 | [Gibraltar](docs/gibraltar.md) | GI vs UK / ES |
 | [Bolivia](docs/bolivia.md) | BO |
+| [Uruguay](docs/uruguay.md) | UY vs AR / BR |
 
 **Writing rule:** whatever gives the best overview — bullets, table, checklist, sketch. One line
 per clue, bold = the deciding country. No prose.
