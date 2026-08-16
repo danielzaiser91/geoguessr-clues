@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 170" width="400" height="170" role="img" aria-label="Direction sign arrows: Latvia has an angled junction between shaft and barb, Lithuania and Estonia a straight perpendicular one">
   <rect width="400" height="170" fill="#12539f"/>
 
-  <!-- Latvia: angled junction -->
+  <!-- Latvia: barbs swept back, angled junction -->
   <g transform="translate(0,10)">
-    <polygon points="20,55 65,55 72,32 115,65 72,98 65,75 20,75" fill="#ffffff"/>
-    <path d="M65,55 L72,32 M65,75 L72,98" stroke="#ffd24d" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <polygon points="20,55 76,55 64,28 115,65 64,102 76,75 20,75" fill="#ffffff"/>
+    <path d="M76,55 L64,28 M76,75 L64,102" stroke="#ffd24d" stroke-width="4" stroke-linecap="round" fill="none"/>
     <text x="67" y="140" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">LV</text>
     <text x="67" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffd24d" text-anchor="middle">angled</text>
   </g>
 
   <!-- Lithuania / Estonia: straight perpendicular junction -->
   <g transform="translate(200,10)">
-    <polygon points="20,55 70,55 70,32 115,65 70,98 70,75 20,75" fill="#ffffff"/>
-    <path d="M70,55 L70,32 M70,75 L70,98" stroke="#ffd24d" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <polygon points="20,55 70,55 70,28 115,65 70,102 70,75 20,75" fill="#ffffff"/>
+    <path d="M70,55 L70,28 M70,75 L70,102" stroke="#ffd24d" stroke-width="4" stroke-linecap="round" fill="none"/>
     <text x="67" y="140" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">LT · EE</text>
     <text x="67" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffd24d" text-anchor="middle">straight</text>
   </g>
