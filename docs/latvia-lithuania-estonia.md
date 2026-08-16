@@ -8,6 +8,8 @@ where the barb meets the shaft.
 | **LV** | **angled**, slants back diagonally |
 | LT · EE | straight, square to the shaft |
 
+**Mnemonic:** Lat-via = an-gle. Two syllables each.
+
 ![Arrow shapes: LV angled, LT and EE straight](assets/baltic-arrows.svg)
 
 Splits LV off. For LT vs EE use the letters.

@@ -15,6 +15,8 @@ vollständig sie ist.
   eine Form, entscheidet das Bild über Winkelrichtung und Proportion — eine Verbalbeschreibung
   lässt beide Richtungen zu. Liegt kein Bild vor: Skizze weglassen oder Daniel zwei Varianten
   zeigen, statt eine zu raten (Anlass 16.08.2026: Pfeilschräge nach vorne statt nach hinten).
+- **Merksätze mit aufnehmen**, wenn es einen gibt — als eigene Zeile direkt unter dem Merkmal
+  (`**Mnemonic:** …`). Sie kommen von Daniel, nicht von mir.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - Dateiname = Ländergruppe, z. B. `docs/hungary-croatia.md`. Neues Dokument → Zeile in der
