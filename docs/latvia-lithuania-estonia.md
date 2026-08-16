@@ -14,6 +14,17 @@ where the barb meets the shaft.
 
 Splits LV off. For LT vs EE use the letters.
 
+## Poles
+
+**Prerequisite:** the Baltics are already settled — hook poles turn up in other countries too.
+
+**Hook pole** — wooden pole with **hook-shaped insulators in an alternating pattern** → **LV**.
+Flat landscape around it makes it stronger. Not unique, so confirm with a second clue.
+
+**Mnemonic:** Latvian letters wear hooks — Ģ Ķ Ļ Ņ. So do its poles.
+
+Source: [plonkit.net/latvia](https://www.plonkit.net/latvia).
+
 ## Alphabet
 
 Letters that appear in only one of the three.
