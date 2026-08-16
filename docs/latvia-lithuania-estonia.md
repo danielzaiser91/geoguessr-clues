@@ -25,3 +25,5 @@ Letters that appear in only one of the three.
 | **EE** | **Õ** Ä Ö Ü | – |
 
 **Mnemonic:** EE = umlauts + doubled letters · LT = dot over E · LV = bar over a, e, i
+
+**Careful:** **Ū** exists in both LV and LT — it decides nothing. Only the bar over **a, e, i** is LV.

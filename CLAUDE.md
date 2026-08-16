@@ -17,6 +17,9 @@ vollständig sie ist.
   zeigen, statt eine zu raten (Anlass 16.08.2026: Pfeilschräge nach vorne statt nach hinten).
 - **Merksätze mit aufnehmen**, wenn es einen gibt — als eigene Zeile direkt unter dem Merkmal
   (`**Mnemonic:** …`). Sie kommen von Daniel, nicht von mir.
+- **Fallen ausdrücklich benennen** (`**Careful:** …`): Merkmale, die zwei der verglichenen Länder
+  teilen und deshalb nichts entscheiden. Ein Merksatz, der eine solche Falle offen lässt, bekommt
+  die Warnzeile direkt darunter.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - Dateiname = Ländergruppe, z. B. `docs/hungary-croatia.md`. Neues Dokument → Zeile in der
