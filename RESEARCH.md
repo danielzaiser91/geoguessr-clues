@@ -48,6 +48,20 @@ Bollards, Chevrons, Kilometersteine, Schilderränder, Leitplanken-Reflektoren, F
 und Masten für alle drei Länder stehen im Dokument. Plonkit verweist zusätzlich auf eine
 Infografik zu baltischen und nordischen Bollards — noch nicht ausgewertet.
 
+## Indien — vollständig ausgelesen (16.08.2026)
+
+Schriften, Masten, Mastanstriche, Bauweisen, Pflanzen und Böden stehen im Dokument.
+
+**Wichtig fürs Trident-Thema:** Indien hat den Trident-Mastkopf landesweit als häufigsten Typ.
+Er trennt dort also keine Bundesstaaten, nur die Varianten tun das (Karnataka, Manipur, Assam).
+
+## Schweden — vollständig ausgelesen (16.08.2026)
+
+Die schwedische Seite vergleicht sich durchgehend selbst mit Norwegen, Finnland und Dänemark;
+daraus ist die Drei-Wege-Tabelle entstanden, ohne die norwegische und finnische Seite zu öffnen.
+**Noch offen:** die Regionalmerkmale innerhalb Schwedens (Step 2) und die Seiten von Norwegen und
+Finnland mit deren eigenen Regionen.
+
 ## USA — teilweise ausgelesen (16.08.2026)
 
 Die Seite ist mit knapp 44.000 Zeichen die größte bei plonkit. Übernommen ist der komplette

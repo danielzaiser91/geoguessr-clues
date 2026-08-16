@@ -49,6 +49,7 @@ yellow **pole** = west (WA).
 
 | See this | State |
 |---|---|
+| Bollard with **brown paint at the bottom** | **WA** |
 | White property marker on a black post at the roadside | **SA** |
 | Short reflectors (4+ visible at once) | **QLD or SA** |
 | Brush plants | **WA** |
