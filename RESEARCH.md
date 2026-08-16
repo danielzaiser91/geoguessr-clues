@@ -20,6 +20,19 @@ dieselbe Quelle in drei Monaten erneut und kommt zum selben Nein.
   gebe in Australien keine — was der Learnable-Meta-Karte widerspricht. Keine Primärquelle
   gefunden. Aufnehmen, sobald ein Bild oder eine Meta-Seite es belegt.
 
+**Worin der Widerspruch bestand**
+
+Beide Aussagen stammen aus **Zusammenfassungen der Suchmaschine**, nicht aus gelesenen
+Primärquellen — deshalb wiegt keine schwer.
+
+1. Suche 2 behauptete, in Australien gebe es keine Trident-Masten, WA und VIC hätten stattdessen
+   „mountain-shaped" Mastköpfe. Der Learnable-Meta-Screenshot sagt das Gegenteil.
+2. Suche 1 nannte Manipur und KwaZulu, Suche 2 fand dazu nichts.
+
+**Hypothese:** „mountain-shaped" und „trident" könnten denselben Mast meinen — drei nach oben
+zeigende Isolatoren wirken je nach Blickwinkel wie eine Bergspitze. Dann wäre Punkt 1 kein
+Widerspruch, sondern eine Namensfrage. Prüfen, sobald plonkit im Browser gelesen wird.
+
 **Sackgassen**
 
 - **`plonkit.net` ist per WebFetch nicht lesbar.** Die Seiten liefern nur den Titel, der Inhalt
