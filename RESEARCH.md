@@ -48,6 +48,12 @@ Bollards, Chevrons, Kilometersteine, Schilderränder, Leitplanken-Reflektoren, F
 und Masten für alle drei Länder stehen im Dokument. Plonkit verweist zusätzlich auf eine
 Infografik zu baltischen und nordischen Bollards — noch nicht ausgewertet.
 
+## Kanada — vollständig ausgelesen (16.08.2026)
+
+Provinzmerkmale zu Schildern, Bollards, Masten, Fahrbahnmarkierung und der Nummerierung
+ländlicher Straßen in AB und MB stehen im Dokument. Nicht übernommen: Landschaftsbeschreibungen
+(Rocky Mountains, Prärie, Yukon) — die trennen keine Provinzen scharf, sondern nur grob West/Ost.
+
 ## Australien — vollständig ausgelesen (16.08.2026)
 
 Schilder, Masten und Regionalmerkmale stehen im Dokument. Nicht übernommen, weil zu
