@@ -12,6 +12,7 @@ Readable at a glance, never a paragraph.
 | [Brazil — Acre · Rondônia](docs/brazil-acre-rondonia.md) | region inside BR |
 | [Australia — states](docs/australia-states.md) | states inside AU |
 | [Canada — provinces](docs/canada-provinces.md) | provinces inside CA |
+| [Mexico — states](docs/mexico-states.md) | states inside MX |
 | [Gibraltar](docs/gibraltar.md) | GI vs UK / ES |
 | [Bolivia](docs/bolivia.md) | BO |
 | [Uruguay](docs/uruguay.md) | UY vs AR / BR |

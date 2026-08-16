@@ -48,6 +48,16 @@ Bollards, Chevrons, Kilometersteine, Schilderränder, Leitplanken-Reflektoren, F
 und Masten für alle drei Länder stehen im Dokument. Plonkit verweist zusätzlich auf eine
 Infografik zu baltischen und nordischen Bollards — noch nicht ausgewertet.
 
+## Mexiko — vollständig ausgelesen (16.08.2026)
+
+Schilder, Bollards, Masten, Fahrbahnbeläge, Pflanzen, Böden und Bauweisen stehen im Dokument.
+Nicht übernommen: der Spotlight-Abschnitt mit einzelnen Orten (Mexicali, Poza Rica, Guaymas,
+Las Coloradas, Vulkane) — zu kleinteilig fürs Nachschlagen.
+
+**Zwei Karten liegen nur als Bild vor** und lassen sich nicht in Text überführen: die Vorwahl-
+Karte (erste Ziffer = Region) und die Postleitzahl-Karte. Das auswertbare Prinzip steht im
+Dokument: Postleitzahlen sind alphabetisch nach Bundesstaatsnamen vergeben.
+
 ## Kanada — vollständig ausgelesen (16.08.2026)
 
 Provinzmerkmale zu Schildern, Bollards, Masten, Fahrbahnmarkierung und der Nummerierung
