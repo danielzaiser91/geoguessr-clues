@@ -24,4 +24,4 @@ Letters that appear in only one of the three.
 | **LT** | Ą Ę **Ė** Į Ų Y | -as, -is, -us |
 | **EE** | **Õ** Ä Ö Ü | – |
 
-Signature letters: **Õ** for EE, **Ė** for LT. Ā Ē Ī with macron for LV.
+**Mnemonic:** EE = umlauts + doubled letters · LT = dot over E · LV = bar over a, e, i
