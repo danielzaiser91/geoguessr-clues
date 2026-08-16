@@ -10,6 +10,7 @@ Readable at a glance, never a paragraph.
 | [Latvia · Lithuania · Estonia](docs/latvia-lithuania-estonia.md) | LV / LT / EE |
 | [Lesotho · Eswatini](docs/lesotho-eswatini.md) | LS / SZ |
 | [Brazil — Acre · Rondônia](docs/brazil-acre-rondonia.md) | region inside BR |
+| [Australia — states](docs/australia-states.md) | states inside AU |
 
 **Writing rule:** whatever gives the best overview — bullets, table, checklist, sketch. One line
 per clue, bold = the deciding country. No prose.
