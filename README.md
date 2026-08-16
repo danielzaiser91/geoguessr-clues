@@ -15,5 +15,7 @@ Readable at a glance, never a paragraph.
 | [Bolivia](docs/bolivia.md) | BO |
 | [Uruguay](docs/uruguay.md) | UY vs AR / BR |
 
+[RESEARCH.md](RESEARCH.md) — what has already been looked up, including dead ends.
+
 **Writing rule:** whatever gives the best overview — bullets, table, checklist, sketch. One line
 per clue, bold = the deciding country. No prose.

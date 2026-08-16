@@ -23,6 +23,12 @@ vollständig sie ist.
   könnte LV oder LT sein). **Keine Warnzeile**, wenn dieselbe Eigenschaft an zwei verschiedenen
   Gegenständen auftaucht — gelbes Kennzeichen und gelber Mast sind zwei Merkmale, keine Falle
   (Anlass 16.08.2026). Prüffrage: *Kann ich beim Hinsehen überhaupt verwechseln, was ich sehe?*
+- **Reichweite eines Merkmals über das Dokument hinaus prüfen.** Ein Merkmal, das es auch auf
+  einem anderen Kontinent gibt, bekommt **über** dem Merkmal die Voraussetzung: was muss vorher
+  ausgeschlossen sein, damit es trägt.
+- **Jede Websuche wird in `RESEARCH.md` festgehalten** — Ergebnis, Quelle, Datum, und ebenso die
+  Fehlschläge und nicht belegbaren Behauptungen. Ohne das läuft dieselbe Suche in drei Monaten
+  noch einmal. Ins Dokument kommt nur das Gesicherte, der Rest bleibt im Log.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines
