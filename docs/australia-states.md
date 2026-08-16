@@ -11,8 +11,6 @@ Only once you know it is Australia.
 | **Yellow** sign post | **WA** |
 | **White** direction sign | **TAS** |
 
-**Careful:** yellow alone decides nothing — plate and post point to different states.
-
 **Mnemonic:** yellow **plate** = east (NSW), yellow **pole** = west (WA).
 
 Marker clue: [plonkit.net/australia](https://www.plonkit.net/australia).

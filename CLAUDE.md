@@ -18,9 +18,11 @@ vollständig sie ist.
 - **Merksätze gehören dazu** — eigene Zeile direkt unter dem Merkmal (`**Mnemonic:** …`). Kommt
   keiner von Daniel, wird einer vorgeschlagen; er hängt am Landesnamen oder an einem Ort, den man
   in der Runde wirklich sieht, nicht an einer abstrakten Regel.
-- **Fallen ausdrücklich benennen** (`**Careful:** …`): Merkmale, die zwei der verglichenen Länder
-  teilen und deshalb nichts entscheiden. Ein Merksatz, der eine solche Falle offen lässt, bekommt
-  die Warnzeile direkt darunter.
+- **Fallen ausdrücklich benennen** (`**Careful:** …`) — aber nur bei echter Mehrdeutigkeit:
+  **dieselbe Beobachtung am selben Gegenstand** passt auf zwei Länder (Ū auf einem Ortsschild
+  könnte LV oder LT sein). **Keine Warnzeile**, wenn dieselbe Eigenschaft an zwei verschiedenen
+  Gegenständen auftaucht — gelbes Kennzeichen und gelber Mast sind zwei Merkmale, keine Falle
+  (Anlass 16.08.2026). Prüffrage: *Kann ich beim Hinsehen überhaupt verwechseln, was ich sehe?*
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines
