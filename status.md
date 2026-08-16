@@ -18,4 +18,4 @@ Notizsammlung zu GeoGuessr-Erkennungsmerkmalen. Öffentliches Repo, reine Textdo
 
 ## Archiv
 
-- 16.08.2026 — Repo angelegt, README + erstes Dokument (CR/PA/EC) veröffentlicht.
+- 16.08.2026 — Repo angelegt; Dokumente CR/PA/EC und HU/HR; Format auf Stichpunkte gekürzt.
