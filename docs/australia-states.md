@@ -19,4 +19,14 @@ rules the other states out.
 **Mnemonic:** flat post = the two "-A" codes, S**A** and W**A**. Yellow **plate** = east (NSW),
 yellow **pole** = west (WA).
 
-Marker and post clues: [plonkit.net/australia](https://www.plonkit.net/australia).
+## WA utility poles
+
+| On the pole | |
+|---|---|
+| **Trident** top | WA — **also VIC** |
+| **Green** painted bottom | WA |
+| Sticker: **red/white**, **yellow horizontal**, or **white/grey** | WA |
+
+**Careful:** the trident top alone leaves WA and VIC open. Green paint or a sticker decides it.
+
+Marker, post and pole clues: [plonkit.net/australia](https://www.plonkit.net/australia).
