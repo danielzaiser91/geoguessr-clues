@@ -36,6 +36,11 @@ the city:
 | **West** of Kediri | the **Wilis** massif. Its highest peak is **Liman**, 2,563 m, the highest inactive mountain in East Java. The massif spreads across the regencies of Kediri, Nganjuk, Madiun, Ponorogo, Tulungagung and Trenggalek |
 | **East** of Kediri | **Kelud**, an active volcano |
 
+**Confirmed round:** **Besuki** (Dusun Besuki, Desa Jugo, Kecamatan Mojo, Kabupaten Kediri) on the
+**eastern slope of Wilis**, around 1,800 m. Pine plantation along a narrow, smoothly asphalted
+switchback road up to the Dolo waterfall, angel's trumpets at the roadside. The whole chain held:
+angel's trumpet → highland · pine → Java plantation · Kediri → East Java · massif → Wilis, not Kelud.
+
 **Careful:** the name Kediri exists three times. There is a kecamatan **Kediri in Tabanan, Bali**
 (the one with Tanah Lot) and another **in Lombok Barat**. Both are coastal lowland — pines and
 angel's trumpets rule them out, but a Kediri sign on its own does not.
