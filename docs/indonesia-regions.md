@@ -242,6 +242,7 @@ region **and** absence elsewhere before it moves up into a table.
 
 | Seen | Where | What would confirm it |
 |---|---|---|
+| **Bird guards** on the pin insulators — flat plates slanting up over each insulator | **Bengkulu**, 21.08.2026 | Whether they show up outside Sumatra. Bird protection on MV lines is standard hardware worldwide, but the **model** can be a regional utility's purchasing choice, which would make it sharp |
 | Pole braced by a **second pole lashed alongside** it, several in a row | **Bengkulu**, 21.08.2026 | Sightings in other provinces, or their absence. Several in a row suggests a local repair or soft ground rather than a regional style |
 | Thin extra pole with painted red, white and black rings at the bottom | East Peninsula, Central Sulawesi and East Java | Nothing — already refuted, it stands nationwide |
 
