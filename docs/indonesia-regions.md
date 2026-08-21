@@ -106,6 +106,12 @@ belt makes it useless there.
 insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
 for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
 
+**Careful — most pole markings mean nothing regionally.** Only two are documented: the horizontal
+painted text on **Bali** poles, and the light blue and green tapes on the thin extra poles of the
+**Central Sulawesi** East Peninsula. Everything else — red or orange metal plates, painted dots,
+numbers — is PLN operating hardware and turns up anywhere. Checked 21.08.2026 against the whole
+plonkit page and Indonesian sources; nothing regional found.
+
 **Careful — bollards mostly do not help.** The plain **black-and-white** and **yellow-and-black**
 bollards, with or without a red reflector, are used all over Indonesia. They confirm the country
 and nothing else. Only the two in the table above narrow anything down.
