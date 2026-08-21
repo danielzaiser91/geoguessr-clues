@@ -172,11 +172,20 @@ painted text on **Bali** poles, and the light blue and green tapes on the thin e
 numbers — is PLN operating hardware and turns up anywhere. Checked 21.08.2026 against the whole
 plonkit page and Indonesian sources; nothing regional found.
 
-**Careful — the "North Sumatra" insulator split turned up in Bengkulu.** plonkit calls the even bar
-with one insulator on one side of the pole and two on the other "almost exclusive to North
-Sumatra". Two neighbouring poles with exactly that arrangement were seen in **Bengkulu** on
-21.08.2026, roughly 700 km south. Treat it as "Sumatra", not as "North Sumatra", until more
-sightings say otherwise. Count the insulators **against the pole**, not against the bar ends.
+**Two different things, do not mix them up:**
+
+| Axis | Question |
+|---|---|
+| **Bar type** — what the map above colours | Does the **crossbar** sit symmetrically on the pole? |
+| **Insulator split** — the North Sumatra clue | Even bar, but **one insulator left of the pole, two right** |
+
+Count insulators **against the pole**, not against the bar ends.
+
+**Careful — the insulator split was seen well south of North Sumatra.** Two neighbouring poles with
+that arrangement turned up in **Bengkulu**, 21.08.2026, roughly 700 km south — read off blurry
+Street View crops, so not airtight. Bengkulu also sits in the map's mixed belt, where a mixture is
+expected anyway. Enough to treat the split as **Sumatra** rather than **North Sumatra** unless a
+second clue backs the north.
 
 **Careful — stacked poles are not a clue.** Two crossbars above each other appear nowhere as a
 regional meta; plonkit names them only to say the triangle-attachment clue does **not** apply to
