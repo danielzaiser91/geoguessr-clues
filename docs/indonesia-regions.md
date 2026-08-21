@@ -140,9 +140,22 @@ what you get in a region the map says nothing about.
 This is a **soft** clue at best: it rules regions out rather than pinning one down, and it is
 blind east of Sulawesi.
 
-**Careful — only read poles on a straight run.** Where the line bends, a pole gets dead-end
-insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
-for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
+**Careful — only read poles on a straight run.** Where the line bends, ends or changes section,
+the pole gets extra hardware that has nothing to do with the region. plonkit gives that warning
+for A-frames; it applies to every poletop clue.
+
+**Skip a pole that shows any of these:**
+
+| Tell | What it means |
+|---|---|
+| **Two insulators per phase** — six on a three-phase bar | line is terminated here and jumpered onward |
+| Big **hanging** disc insulators instead of upright pin ones | the line is anchored, not carried |
+| **Steel stay wire** down to the ground or to a stub pole | the pole is taking pull |
+| A **second pole lashed alongside** | reinforcement or repair |
+| Extra brackets reaching out past the bar end | the line changes direction |
+
+These cluster: one anchor point often shows several in a row. Walk on until you find a pole that
+just carries three insulators and nothing else — that one can be read.
 
 **Careful — the thin extra pole is nationwide.** It only means Central Sulawesi with all three
 attributes together: **two tapes**, **light blue and green**, **near the top**. Without them it is
