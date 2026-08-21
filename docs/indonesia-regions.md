@@ -121,6 +121,11 @@ and nothing else. Only the two in the table above narrow anything down.
 | See this | Region |
 |---|---|
 | Oil palm plantations | **Sumatra, Kalimantan** — rare on Sulawesi |
+| **Coconut** palms | everywhere on the coasts — no regional value at all |
+
+**Telling the two apart:** oil palm has a **shaggy trunk with a diamond pattern** of cut frond
+bases and stiff fronds. Coconut has a **smooth, ringed** trunk and arching fronds. Only the oil
+palm narrows anything down.
 | Rice | mostly **Java**, also South Sulawesi and South Sumatra |
 | Dry, low, shrubby vegetation | the **Nusas** — but Java can look dry too |
 | Very rounded green hills with palms, sugarcane or corn | **Gorontalo** |
