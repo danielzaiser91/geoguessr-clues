@@ -35,6 +35,10 @@ vollständig sie ist.
   nicht die auffälligste allein (Anlass 21.08.2026: dünner Zusatzmast mit gemalten Ringen unten
   als das Zentralsulawesi-Merkmal gelesen, das zwei Klebebänder in Hellblau und Grün **oben**
   verlangt).
+- **Ein Merkmal zählt nur, wenn es auf der Spielkarte umsetzbar ist.** Ein Ortsname hilft erst,
+  wenn er dort als Beschriftung steht — die GeoGuessr-Karte hat keine Suche. In Indonesien heißt
+  das: **Kabupaten** ja, **Kecamatan** so gut wie nie (Anlass 21.08.2026). Beim Aufschreiben also
+  dazusagen, welcher Teil einer Angabe wirklich zum Pin führt.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines
