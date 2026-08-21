@@ -47,6 +47,11 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 
 ## Pinning it down exactly
 
+- **Road works project boards** are the best of the lot. The white boards of **Bina Marga**
+  (Ministry of Public Works) stand at every national road project and spell out the province —
+  "Pelaksanaan Jalan Nasional **Kalimantan Barat**" — plus the section being built, e.g.
+  "Sei Kelik - Ketapang". That gives you the province and the stretch of road between two named
+  towns.
 - **Kabupaten** ("Kab.") names appear on signs and billboards everywhere — 417 of them have
   coverage, and each one is a regency you can look up.
 - **Postal codes** are five digits, grouped by first digit: **1xxxx Jakarta** rising eastward to
@@ -75,6 +80,10 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | **UK-style** bollard | mostly **Kalimantan** |
 | Fences painted white with blue or red | **Sulawesi** |
 | Green paint on bridge sides | **South and Central Kalimantan** |
+
+**Careful — only read poles on a straight run.** Where the line bends, a pole gets dead-end
+insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
+for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
 
 **Careful — bollards mostly do not help.** The plain **black-and-white** and **yellow-and-black**
 bollards, with or without a red reflector, are used all over Indonesia. They confirm the country
