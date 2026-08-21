@@ -72,8 +72,13 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | **A-shaped** support | **Kalimantan, Nusa islands** — but any bend in the wires can need one |
 | Asymmetrical pole, two supports below the bar | **Sumatra**, southern Sulawesi |
 | Bollard black at the bottom, white middle, yellow top | **Central Sulawesi** |
+| **UK-style** bollard | mostly **Kalimantan** |
 | Fences painted white with blue or red | **Sulawesi** |
 | Green paint on bridge sides | **South and Central Kalimantan** |
+
+**Careful — bollards mostly do not help.** The plain **black-and-white** and **yellow-and-black**
+bollards, with or without a red reflector, are used all over Indonesia. They confirm the country
+and nothing else. Only the two in the table above narrow anything down.
 
 ## Landscape
 
