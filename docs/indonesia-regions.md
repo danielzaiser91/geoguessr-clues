@@ -112,10 +112,14 @@ belt makes it useless there.
 insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
 for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
 
-**Careful — a lookalike is not the clue.** The Central Sulawesi extra pole is defined by three
-things at once: **two tapes**, **light blue and green**, **near the top**. A thin extra pole with
-**painted rings at the bottom** in red, white and black is the common nationwide kind and says
-nothing. If one named attribute does not match, it is a different object.
+**Careful — the thin extra pole is nationwide.** It only means Central Sulawesi with all three
+attributes together: **two tapes**, **light blue and green**, **near the top**. Without them it is
+the ordinary kind that stands everywhere in Indonesia.
+
+> **Verified miss, 21.08.2026.** A thin black extra pole beside two wooden poles led to a Central
+> Sulawesi guess. The round was **East Java** — about 1,300 km off. A second round on the East
+> Peninsula had one too, with painted red-white-black rings at the bottom instead of tapes.
+> Two rounds, two different provinces, same pole: it carries no region on its own.
 
 **Careful — most pole markings mean nothing regionally.** Only two are documented: the horizontal
 painted text on **Bali** poles, and the light blue and green tapes on the thin extra poles of the
