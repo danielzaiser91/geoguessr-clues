@@ -72,6 +72,11 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
   the area. **Inpres** in a school name is a nationwide Suharto-era building programme and says
   nothing about the region.
 
+- **Waystones** carry town names. Yellow, angled towards the road, with a cutout near the top;
+  they hold **shorthand for three towns**, the biggest one on top in the cutout. Local paint
+  schemes vary — blue and yellow ones exist — so read the shape, not the colour. The angled
+  stone with the cutout is unique to Indonesia; Philippine ones stand perpendicular to the road
+  with the text facing away.
 - **Road works project boards** are the best of the lot. The white boards of **Bina Marga**
   (Ministry of Public Works) stand at every national road project and spell out the province —
   "Pelaksanaan Jalan Nasional **Kalimantan Barat**" — plus the section being built, e.g.
@@ -102,6 +107,7 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | **A-shaped** support | **Kalimantan, Nusa islands** — but any bend in the wires can need one |
 | Asymmetrical pole, two supports below the bar | **Sumatra**, southern Sulawesi |
 | Bollard black at the bottom, white middle, yellow top | **Central Sulawesi** |
+| Bollard in any other colour scheme, e.g. blue and yellow | nothing — local paint |
 | **UK-style** bollard | mostly **Kalimantan** |
 | Fences painted white with blue or red | **Sulawesi** |
 | Green paint on bridge sides | **South and Central Kalimantan** |
@@ -145,6 +151,10 @@ painted text on **Bali** poles, and the light blue and green tapes on the thin e
 **Central Sulawesi** East Peninsula. Everything else — red or orange metal plates, painted dots,
 numbers — is PLN operating hardware and turns up anywhere. Checked 21.08.2026 against the whole
 plonkit page and Indonesian sources; nothing regional found.
+
+**Careful — stacked poles are not a clue.** Two crossbars above each other appear nowhere as a
+regional meta; plonkit names them only to say the triangle-attachment clue does **not** apply to
+them.
 
 **Careful — bollards mostly do not help.** The plain **black-and-white** and **yellow-and-black**
 bollards, with or without a red reflector, are used all over Indonesia. They confirm the country
