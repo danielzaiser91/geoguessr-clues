@@ -39,6 +39,9 @@ vollständig sie ist.
   wenn er dort als Beschriftung steht — die GeoGuessr-Karte hat keine Suche. In Indonesien heißt
   das: **Kabupaten** ja, **Kecamatan** so gut wie nie (Anlass 21.08.2026). Beim Aufschreiben also
   dazusagen, welcher Teil einer Angabe wirklich zum Pin führt.
+- **Einzelbeobachtungen kommen in „Open observations", nicht in die Merkmalstabellen.** Eine
+  Sichtung trennt nichts. Dazu gehört, was sie bestätigen würde: mehrere Sichtungen in derselben
+  Region **und** Abwesenheit anderswo.
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines

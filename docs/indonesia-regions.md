@@ -207,5 +207,15 @@ palm narrows anything down.
 - **Gen 3 antenna** coverage is mostly **Java**, most of all East Java; rare on Bali near Denpasar.
 - **Black Gen 3** car is everywhere but most common on **Sulawesi**.
 
+## Open observations
+
+Seen in a round, not documented anywhere, not yet a clue. Each needs repeat sightings in the same
+region **and** absence elsewhere before it moves up into a table.
+
+| Seen | Where | What would confirm it |
+|---|---|---|
+| Guyed pole: symmetric crossbar, three evenly spaced insulators, steel stay running down to a stub pole | **Bengkulu**, 21.08.2026 | Several more in Sumatra and none in Java, Kalimantan, Sulawesi. Note that poles get guyed wherever the line pulls — a corner, a line end, a slope — so a sighting only counts on a **straight** run |
+| Thin extra pole with painted red, white and black rings at the bottom | East Peninsula, Central Sulawesi and East Java | Nothing — already refuted, it stands nationwide |
+
 Sources: [plonkit.net/indonesia](https://www.plonkit.net/indonesia), read 21.08.2026 · pine and
 angel's trumpet ranges checked separately, see [RESEARCH.md](../RESEARCH.md).
