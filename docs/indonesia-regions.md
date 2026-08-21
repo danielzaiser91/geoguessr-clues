@@ -36,6 +36,10 @@ the city:
 | **West** of Kediri | the **Wilis** massif. Its highest peak is **Liman**, 2,563 m, the highest inactive mountain in East Java. The massif spreads across the regencies of Kediri, Nganjuk, Madiun, Ponorogo, Tulungagung and Trenggalek |
 | **East** of Kediri | **Kelud**, an active volcano |
 
+**Confirmed round:** north coast of the **East Peninsula, Central Sulawesi**, between **Bunta** and
+**Luwuk** (Kabupaten Banggai). Spotted from the thin extra pole standing beside the regular poles
+— the ✅ clue above. Coconut palms all around, which said nothing.
+
 **Confirmed round:** **Besuki** (Dusun Besuki, Desa Jugo, Kecamatan Mojo, Kabupaten Kediri) on the
 **eastern slope of Wilis**, around 1,800 m. Pine plantation along a narrow, smoothly asphalted
 switchback road up to the Dolo waterfall, angel's trumpets at the roadside. The whole chain held:
@@ -73,7 +77,7 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | Even bar but **uneven insulators** — one side, two the other | almost only **North Sumatra** |
 | Extra attachment right under the horizontal bar | **North and Central Sulawesi, Gorontalo** |
 | Flat side of the crossbar facing **away** from the pole | **Sulawesi** — elsewhere it faces the pole |
-| Thin black poles beside regular ones, two tapes near the top (light blue, green) | East Peninsula of **Central Sulawesi** |
+| Thin black poles beside regular ones, two tapes near the top (light blue, green) | East Peninsula of **Central Sulawesi** | ✅
 | **A-shaped** support | **Kalimantan, Nusa islands** — but any bend in the wires can need one |
 | Asymmetrical pole, two supports below the bar | **Sumatra**, southern Sulawesi |
 | Bollard black at the bottom, white middle, yellow top | **Central Sulawesi** |
