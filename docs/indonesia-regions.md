@@ -81,6 +81,27 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | Fences painted white with blue or red | **Sulawesi** |
 | Green paint on bridge sides | **South and Central Kalimantan** |
 
+### Crossbar type — the base split
+
+Two poletop families. Read the **crossbar against the pole**, not the insulator count.
+
+| | Looks like |
+|---|---|
+| **Type A** | crossbar sits **on top** of the pole, often on a triangular brace. Middle insulator sits **directly above the pole**, arms roughly equal |
+| **Type B** | pole **continues up past** the crossbar, which is bolted to its side. Insulators sit off-centre to the pole |
+
+Where each dominates, read off plonkit's map:
+
+| Region | |
+|---|---|
+| **Type A** | North Sumatra · **West Kalimantan** · West Java · East Java · Bali and the Nusas · North and Central Sulawesi, Gorontalo |
+| **Type B** | Aceh · Bangka Belitung · Central Java · Central, South, East and North Kalimantan · Southeast Sulawesi |
+| **Mixed** | the whole middle and south of Sumatra — Riau, West Sumatra, Jambi, South Sumatra, Bengkulu, Lampung |
+| Own colour, unlabelled | South Sulawesi |
+
+This is a **soft** clue — it rules regions out rather than pinning one down, and Sumatra's mixed
+belt makes it useless there.
+
 **Careful — only read poles on a straight run.** Where the line bends, a pole gets dead-end
 insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
 for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
