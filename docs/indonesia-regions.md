@@ -130,8 +130,15 @@ Where each dominates, read off plonkit's map:
 | **Mixed** | the whole middle and south of Sumatra — Riau, West Sumatra, Jambi, South Sumatra, Bengkulu, Lampung |
 | Own colour, unlabelled | South Sulawesi |
 
-This is a **soft** clue — it rules regions out rather than pinning one down, and Sumatra's mixed
-belt makes it useless there.
+**Careful — the map stops at Sulawesi.** **Maluku, North Maluku and Papua are not coloured at
+all.** So seeing both types in one place does **not** mean the Sumatran mixed belt; it is equally
+what you get in a region the map says nothing about.
+
+> **Verified miss, 21.08.2026.** A mix of even and uneven bars was read as central or southern
+> Sumatra. The round was **North Maluku**, near Tobelo — about 2,500 km away.
+
+This is a **soft** clue at best: it rules regions out rather than pinning one down, and it is
+blind east of Sulawesi.
 
 **Careful — only read poles on a straight run.** Where the line bends, a pole gets dead-end
 insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
