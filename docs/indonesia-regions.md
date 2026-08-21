@@ -36,6 +36,9 @@ the city:
 | **West** of Kediri | the **Wilis** massif. Its highest peak is **Liman**, 2,563 m, the highest inactive mountain in East Java. The massif spreads across the regencies of Kediri, Nganjuk, Madiun, Ponorogo, Tulungagung and Trenggalek |
 | **East** of Kediri | **Kelud**, an active volcano |
 
+**Confirmed round:** **Ile Ape Timur** on **Lembata**, East Nusa Tenggara — read straight off a
+school sign: "Pemerintah Kabupaten Lembata … UPTD PPO Kecamatan Ile Ape Timur".
+
 **Confirmed round:** north coast of the **East Peninsula, Central Sulawesi**, between **Bunta** and
 **Luwuk** (Kabupaten Banggai). Nothing in here found it — the coconut palms said nothing, and the
 thin extra pole there was **not** the Central Sulawesi one: it had painted red, white and black
@@ -52,6 +55,19 @@ angel's trumpet → highland · pine → Java plantation · Kediri → East Java
 angel's trumpets rule them out, but a Kediri sign on its own does not.
 
 ## Pinning it down exactly
+
+- **School signs are the surest of the lot** ✅. Every village has one, and the concrete slab in
+  front of a school spells out the whole administrative chain:
+
+  | On the sign | Means |
+  |---|---|
+  | Pemerintah **Kabupaten** X | government of regency X |
+  | Dinas Pendidikan Pemuda dan Olahraga | education, youth and sport agency |
+  | UPTD PPO **Kecamatan** Y | agency branch for district Y |
+  | **SD** / SMP / SMA / SMK | primary / junior high / senior high / vocational school |
+
+  Regency **and** district in one glance. **Inpres** in a school name is a nationwide Suharto-era
+  building programme and says nothing about the region.
 
 - **Road works project boards** are the best of the lot. The white boards of **Bina Marga**
   (Ministry of Public Works) stand at every national road project and spell out the province —
