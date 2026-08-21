@@ -48,6 +48,22 @@ Bollards, Chevrons, Kilometersteine, Schilderränder, Leitplanken-Reflektoren, F
 und Masten für alle drei Länder stehen im Dokument. Plonkit verweist zusätzlich auf eine
 Infografik zu baltischen und nordischen Bollards — noch nicht ausgewertet.
 
+## Indonesien — Kiefern und Engelstrompeten als Höhenmerkmal (21.08.2026)
+
+Anlass: ein Rundenbild mit blühender Brugmansia vor Kiefernwald auf der Classic-Indonesia-Karte.
+
+**Gesichert**
+
+- **Brugmansia** braucht kühle Nächte, wächst in Indonesien im Bergland. Belegt für die nebligen
+  Kiefernwälder am Fuß des **Mount Slamet** (Purbalingga, Zentraljava).
+- **Pinus merkusii** kommt in Indonesien **natürlich nur auf Sumatra** vor — Aceh, Tapanuli und
+  um den Mount Kerinci. **Alle Kiefernbestände auf Java sind Pflanzungen**, dazu einige auf
+  Sulawesi. Quelle: MDPI Forests 11(12):1235 und RBGE Threatened Conifers.
+
+**Wichtig:** plonkit führt Kiefern **gar nicht** als indonesisches Regionalmerkmal. Der Hinweis
+stammt also nicht von dort, sondern aus der Verbreitungsliteratur — entsprechend im Dokument als
+Höhenmerkmal formuliert, nicht als Inselmerkmal.
+
 ## Indien — vollständig ausgelesen (16.08.2026)
 
 Schriften, Masten, Mastanstriche, Bauweisen, Pflanzen und Böden stehen im Dokument.

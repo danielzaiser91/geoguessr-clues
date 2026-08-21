@@ -11,6 +11,7 @@ Readable at a glance, never a paragraph.
 | [Lesotho · Eswatini](docs/lesotho-eswatini.md) | LS / SZ |
 | [Sweden · Norway · Finland](docs/sweden-norway-finland.md) | SE / NO / FI |
 | [India — states](docs/india-states.md) | states inside IN |
+| [Indonesia — regions](docs/indonesia-regions.md) | regions inside ID |
 | [Brazil — Acre · Rondônia](docs/brazil-acre-rondonia.md) | region inside BR |
 | [Australia — states](docs/australia-states.md) | states inside AU |
 | [Canada — provinces](docs/canada-provinces.md) | provinces inside CA |
