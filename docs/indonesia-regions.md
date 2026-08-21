@@ -100,7 +100,7 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | Extra long support on the poletop, sometimes two | **Lesser Sunda Islands** |
 | Rectangle attachment on the poletop | almost only **Bali** |
 | Horizontal text painted on the pole, usually dark blue | **Bali** |
-| Even bar but **uneven insulators** — one side, two the other | almost only **North Sumatra** |
+| Even bar but **uneven insulators** — one left of the pole, two right of it | **North Sumatra** per plonkit — but see the warning below |
 | Extra attachment right under the horizontal bar | **North and Central Sulawesi, Gorontalo** |
 | Flat side of the crossbar facing **away** from the pole | **Sulawesi** — elsewhere it faces the pole |
 | Thin black poles beside regular ones, **two tapes**, **light blue and green**, **near the top** | East Peninsula of **Central Sulawesi** |
@@ -159,6 +159,12 @@ painted text on **Bali** poles, and the light blue and green tapes on the thin e
 numbers — is PLN operating hardware and turns up anywhere. Checked 21.08.2026 against the whole
 plonkit page and Indonesian sources; nothing regional found.
 
+**Careful — the "North Sumatra" insulator split turned up in Bengkulu.** plonkit calls the even bar
+with one insulator on one side of the pole and two on the other "almost exclusive to North
+Sumatra". Two neighbouring poles with exactly that arrangement were seen in **Bengkulu** on
+21.08.2026, roughly 700 km south. Treat it as "Sumatra", not as "North Sumatra", until more
+sightings say otherwise. Count the insulators **against the pole**, not against the bar ends.
+
 **Careful — stacked poles are not a clue.** Two crossbars above each other appear nowhere as a
 regional meta; plonkit names them only to say the triangle-attachment clue does **not** apply to
 them.
@@ -214,7 +220,7 @@ region **and** absence elsewhere before it moves up into a table.
 
 | Seen | Where | What would confirm it |
 |---|---|---|
-| Guyed pole: symmetric crossbar, three evenly spaced insulators, steel stay running down to a stub pole | **Bengkulu**, 21.08.2026 | Several more in Sumatra and none in Java, Kalimantan, Sulawesi. Note that poles get guyed wherever the line pulls — a corner, a line end, a slope — so a sighting only counts on a **straight** run |
+| Pole braced by a **second pole lashed alongside** it, several in a row | **Bengkulu**, 21.08.2026 | Sightings in other provinces, or their absence. Several in a row suggests a local repair or soft ground rather than a regional style |
 | Thin extra pole with painted red, white and black rings at the bottom | East Peninsula, Central Sulawesi and East Java | Nothing — already refuted, it stands nationwide |
 
 Sources: [plonkit.net/indonesia](https://www.plonkit.net/indonesia), read 21.08.2026 · pine and
