@@ -29,6 +29,12 @@ vollständig sie ist.
 - **Jede Websuche wird in `RESEARCH.md` festgehalten** — Ergebnis, Quelle, Datum, und ebenso die
   Fehlschläge und nicht belegbaren Behauptungen. Ohne das läuft dieselbe Suche in drei Monaten
   noch einmal. Ins Dokument kommt nur das Gesicherte, der Rest bleibt im Log.
+- **Ein Merkmal gilt erst, wenn *alle* genannten Eigenschaften passen.** Nennt die Quelle Farbe,
+  Anzahl, Material und Position, muss jede davon stimmen — sonst ist es ein ähnlich aussehender
+  Gegenstand, kein Sonderfall desselben. Beim Aufschreiben deshalb alle Eigenschaften mitnehmen,
+  nicht die auffälligste allein (Anlass 21.08.2026: dünner Zusatzmast mit gemalten Ringen unten
+  als das Zentralsulawesi-Merkmal gelesen, das zwei Klebebänder in Hellblau und Grün **oben**
+  verlangt).
 - **Nichts dazuerfinden.** Ins Dokument kommt, was Daniel beobachtet hat. Ergänzungen aus anderen
   Quellen nur mit Quellenangabe.
 - **Zwei Dokumenttypen:** Ländergruppe (`docs/hungary-croatia.md`) und Region innerhalb eines

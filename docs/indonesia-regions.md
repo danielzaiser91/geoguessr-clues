@@ -37,8 +37,10 @@ the city:
 | **East** of Kediri | **Kelud**, an active volcano |
 
 **Confirmed round:** north coast of the **East Peninsula, Central Sulawesi**, between **Bunta** and
-**Luwuk** (Kabupaten Banggai). Spotted from the thin extra pole standing beside the regular poles
-— the ✅ clue above. Coconut palms all around, which said nothing.
+**Luwuk** (Kabupaten Banggai). Nothing in here found it — the coconut palms said nothing, and the
+thin extra pole there was **not** the Central Sulawesi one: it had painted red, white and black
+**rings at the bottom**, not two tapes near the top. Thin extra poles of that kind stand all over
+Indonesia and mean nothing.
 
 **Confirmed round:** **Besuki** (Dusun Besuki, Desa Jugo, Kecamatan Mojo, Kabupaten Kediri) on the
 **eastern slope of Wilis**, around 1,800 m. Pine plantation along a narrow, smoothly asphalted
@@ -77,7 +79,7 @@ angel's trumpets rule them out, but a Kediri sign on its own does not.
 | Even bar but **uneven insulators** — one side, two the other | almost only **North Sumatra** |
 | Extra attachment right under the horizontal bar | **North and Central Sulawesi, Gorontalo** |
 | Flat side of the crossbar facing **away** from the pole | **Sulawesi** — elsewhere it faces the pole |
-| Thin black poles beside regular ones, two tapes near the top (light blue, green) | East Peninsula of **Central Sulawesi** | ✅
+| Thin black poles beside regular ones, **two tapes**, **light blue and green**, **near the top** | East Peninsula of **Central Sulawesi** |
 | **A-shaped** support | **Kalimantan, Nusa islands** — but any bend in the wires can need one |
 | Asymmetrical pole, two supports below the bar | **Sumatra**, southern Sulawesi |
 | Bollard black at the bottom, white middle, yellow top | **Central Sulawesi** |
@@ -109,6 +111,11 @@ belt makes it useless there.
 **Careful — only read poles on a straight run.** Where the line bends, a pole gets dead-end
 insulators and extra brackets that have nothing to do with the region. plonkit gives that warning
 for A-frames; it applies to every poletop clue. Walk to the next straight-line pole instead.
+
+**Careful — a lookalike is not the clue.** The Central Sulawesi extra pole is defined by three
+things at once: **two tapes**, **light blue and green**, **near the top**. A thin extra pole with
+**painted rings at the bottom** in red, white and black is the common nationwide kind and says
+nothing. If one named attribute does not match, it is a different object.
 
 **Careful — most pole markings mean nothing regionally.** Only two are documented: the horizontal
 painted text on **Bali** poles, and the light blue and green tapes on the thin extra poles of the
