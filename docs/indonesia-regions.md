@@ -26,6 +26,20 @@ and plonkit notes coverage is sparse in Aceh.
 **Careful:** the pine tells you highland, not which island. Confirm with a **kabupaten** name on a
 sign or with the pole clues below.
 
+### Kediri on a sign
+
+Almost certainly **East Java** — and the pine highlands there sit on two massifs on either side of
+the city:
+
+| | |
+|---|---|
+| **West** of Kediri | the **Wilis** massif. Its highest peak is **Liman**, 2,563 m, the highest inactive mountain in East Java. The massif spreads across the regencies of Kediri, Nganjuk, Madiun, Ponorogo, Tulungagung and Trenggalek |
+| **East** of Kediri | **Kelud**, an active volcano |
+
+**Careful:** the name Kediri exists three times. There is a kecamatan **Kediri in Tabanan, Bali**
+(the one with Tanah Lot) and another **in Lombok Barat**. Both are coastal lowland — pines and
+angel's trumpets rule them out, but a Kediri sign on its own does not.
+
 ## Pinning it down exactly
 
 - **Kabupaten** ("Kab.") names appear on signs and billboards everywhere — 417 of them have
